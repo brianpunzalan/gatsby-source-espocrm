@@ -1,5 +1,4 @@
 const nodeFromData = (entity, entityType, { createContentDigest, createNodeId }, token ) => {
-    console.log(entity)
     for (let key in entity) {
       if (entity.hasOwnProperty(key) && entity[key] === null) {
         entity[key] = '';
