@@ -1,6 +1,6 @@
 {
   "name": "gatsby-source-espocrm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gatsby Source Plugin for EspoCRM",
   "main": "/gatsby-node.js",
   "scripts": {
